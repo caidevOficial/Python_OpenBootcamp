@@ -1,5 +1,3 @@
-from cgi import print_directory
-
 
 NAME = 'Facundo'
 print(
